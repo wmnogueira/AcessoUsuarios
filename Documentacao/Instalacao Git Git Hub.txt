@@ -11,4 +11,22 @@ II	Criar conta no github em github.com
 III	Clonar o projeto para a pasta local com o gith Bash clicando com o botao da direita do mouse
 	*	git clone https://github.com/wmnogueira/AcessoUsuarios.git
 	
+IV	Criado Pasta Documentacao aonde utilizaremos para inserirmos as documentações do projeto
+
+V	Comandos Importantes via Terminal ou git Bash
+	*	git config --global user.email "marcelo.nogueira@fabercode.com.br"
+	*	git config --global user.name "wmnogueira"
+	*	git status 									- Apresenta a situação atual do projeto com seus arquivos pendentes
+	*	git add . 									- Adiciona todos os arquivos pendentes do diretorio de trabalho	
+	*	git commit -m "Mensagem do que foi feito"	- Adiciona mensagem do commit
+	*	git log 									- Apresenta todo o historico das alterações do projeto
+	*	git push origin main						- Atualiza o repositorio na nuvem
+	*	git pull origin main 						- Baixa as atualizações feitas e que estao na nuvem
+
+VI	Video com dica de como criar um repositorio em maquina local https://youtu.be/o_ECnZ8zk_Q
+
+VII Video com dica para utilização dos comandos a partir do VSCode: https://www.youtube.com/watch?v=HIqyLRKv-YE&ab_channel=ThiCode
+
+
+ 
 	

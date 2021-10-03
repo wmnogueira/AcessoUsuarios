@@ -1,0 +1,14 @@
+Boa noite, para controlarmos a versão de nossas atualizações no projeto login utilizaremos o github, segue os passos abaixo:
+
+I	Instalar o Git em https://git-scm.com/
+	*	video explicando: https://youtu.be/Ckig8H_h538
+	
+II	Criar conta no github em github.com 
+	*	video explicando: https://www.youtube.com/watch?v=Ckig8H_h538&ab_channel=ThiCode
+	*	minha conta é wmnogueira
+	*	criado repositorio: AcessoUsuario 
+
+III	Clonar o projeto para a pasta local com o gith Bash clicando com o botao da direita do mouse
+	*	git clone https://github.com/wmnogueira/AcessoUsuarios.git
+	
+	

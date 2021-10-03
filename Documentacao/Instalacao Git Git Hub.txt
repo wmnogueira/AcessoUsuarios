@@ -14,8 +14,8 @@ III	Clonar o projeto para a pasta local com o gith Bash clicando com o botao da 
 IV	Criado Pasta Documentacao aonde utilizaremos para inserirmos as documentações do projeto
 
 V	Comandos Importantes via Terminal ou git Bash
-	*	git config --global user.email "marcelo.nogueira@fabercode.com.br"
-	*	git config --global user.name "wmnogueira"
+	*	git config --global user.email "informeseuemail@fabercode.com.br"
+	*	git config --global user.name "seuusuariogit"
 	*	git status 									- Apresenta a situação atual do projeto com seus arquivos pendentes
 	*	git add . 									- Adiciona todos os arquivos pendentes do diretorio de trabalho	
 	*	git commit -m "Mensagem do que foi feito"	- Adiciona mensagem do commit

@@ -9,7 +9,7 @@
 
 body{
   margin:10px;
-  background-color: #e8dbdb;
+  background-color: #fffefe;
 }
 
 a{
@@ -112,6 +112,7 @@ input[type="submit"]:hover{
 }
 
 /*marcando os links para mudar de um formulário para outro */
+
 .link{
   position: absolute;
   background: #e1eaeb;
@@ -148,6 +149,7 @@ input[type="submit"]:hover{
 }
 
 /* estilos para para ambos os formulários */
+
 #cadastro, 
 #login{
   position: absolute;

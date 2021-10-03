@@ -9,6 +9,7 @@
 
 body{
   margin:10px;
+  background-color: #e8dbdb;
 }
 
 a{
@@ -30,7 +31,7 @@ a.links{
 /* formatando o cabeçalho dos formulários */
 h1{
   font-size: 48px;
-  color: #94e4ec;
+  color: #711df8;
   padding: 10px 0;
   font-family: Arial,sans-serif;
   font-weight: bold;
